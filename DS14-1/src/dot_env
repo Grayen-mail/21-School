@@ -1,0 +1,6 @@
+# An example of '.env' file
+# Fill API_KEY and rename
+
+MOVIES='assets/movies.csv'
+DISTANCE='assets/distance.csv'
+API_KEY='????????'
